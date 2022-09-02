@@ -1,0 +1,214 @@
+__time,process,LOG_LEVEL,pid,Log,Origin,host
+1641773821000,CRON,Info,13899,pam_unix(cron:session): session closed for user root,Jan 10 00:17:01 datanode1 CRON[13899]: pam_unix(cron:session): session closed for user root,datanode1
+1641773821000,CRON,Info,13899,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 00:17:01 datanode1 CRON[13899]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641773821000,CRON,Info,3639743,pam_unix(cron:session): session closed for user root,Jan 10 00:17:01 datanode3 CRON[3639743]: pam_unix(cron:session): session closed for user root,datanode3
+1641773821000,CRON,Info,3639743,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 00:17:01 datanode3 CRON[3639743]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641773821000,CRON,Info,3803,pam_unix(cron:session): session closed for user root,Jan 10 00:17:01 namenode2 CRON[3803]: pam_unix(cron:session): session closed for user root,namenode2
+1641773821000,CRON,Info,3803,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 00:17:01 namenode2 CRON[3803]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641777421000,CRON,Info,1160,pam_unix(cron:session): session closed for user root,Jan 10 01:17:01 datanode1 CRON[1160]: pam_unix(cron:session): session closed for user root,datanode1
+1641777421000,CRON,Info,1160,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 01:17:01 datanode1 CRON[1160]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641777421000,CRON,Info,2256,pam_unix(cron:session): session closed for user root,Jan 10 01:17:01 namenode2 CRON[2256]: pam_unix(cron:session): session closed for user root,namenode2
+1641777421000,CRON,Info,2256,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 01:17:01 namenode2 CRON[2256]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641777421000,CRON,Info,3702211,pam_unix(cron:session): session closed for user root,Jan 10 01:17:01 datanode3 CRON[3702211]: pam_unix(cron:session): session closed for user root,datanode3
+1641777421000,CRON,Info,3702211,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 01:17:01 datanode3 CRON[3702211]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641781021000,CRON,Info,21068,pam_unix(cron:session): session closed for user root,Jan 10 02:17:01 datanode1 CRON[21068]: pam_unix(cron:session): session closed for user root,datanode1
+1641781021000,CRON,Info,21068,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 02:17:01 datanode1 CRON[21068]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641781021000,CRON,Info,3764560,pam_unix(cron:session): session closed for user root,Jan 10 02:17:01 datanode3 CRON[3764560]: pam_unix(cron:session): session closed for user root,datanode3
+1641781021000,CRON,Info,3764560,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 02:17:01 datanode3 CRON[3764560]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641781021000,CRON,Info,521,pam_unix(cron:session): session closed for user root,Jan 10 02:17:01 namenode2 CRON[521]: pam_unix(cron:session): session closed for user root,namenode2
+1641781021000,CRON,Info,521,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 02:17:01 namenode2 CRON[521]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641784201000,CRON,Info,3819672,pam_unix(cron:session): session closed for user root,Jan 10 03:10:01 datanode3 CRON[3819672]: pam_unix(cron:session): session closed for user root,datanode3
+1641784201000,CRON,Info,3819672,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 03:10:01 datanode3 CRON[3819672]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641784621000,CRON,Info,31480,pam_unix(cron:session): session closed for user root,Jan 10 03:17:01 namenode2 CRON[31480]: pam_unix(cron:session): session closed for user root,namenode2
+1641784621000,CRON,Info,31480,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 03:17:01 namenode2 CRON[31480]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641784621000,CRON,Info,3826937,pam_unix(cron:session): session closed for user root,Jan 10 03:17:01 datanode3 CRON[3826937]: pam_unix(cron:session): session closed for user root,datanode3
+1641784621000,CRON,Info,3826937,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 03:17:01 datanode3 CRON[3826937]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641784621000,CRON,Info,8704,pam_unix(cron:session): session closed for user root,Jan 10 03:17:01 datanode1 CRON[8704]: pam_unix(cron:session): session closed for user root,datanode1
+1641784621000,CRON,Info,8704,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 03:17:01 datanode1 CRON[8704]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641788221000,CRON,Info,28441,pam_unix(cron:session): session closed for user root,Jan 10 04:17:01 datanode1 CRON[28441]: pam_unix(cron:session): session closed for user root,datanode1
+1641788221000,CRON,Info,28441,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 04:17:01 datanode1 CRON[28441]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641788221000,CRON,Info,30035,pam_unix(cron:session): session closed for user root,Jan 10 04:17:01 namenode2 CRON[30035]: pam_unix(cron:session): session closed for user root,namenode2
+1641788221000,CRON,Info,30035,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 04:17:01 namenode2 CRON[30035]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641788221000,CRON,Info,3889223,pam_unix(cron:session): session closed for user root,Jan 10 04:17:01 datanode3 CRON[3889223]: pam_unix(cron:session): session closed for user root,datanode3
+1641788221000,CRON,Info,3889223,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 04:17:01 datanode3 CRON[3889223]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641791821000,CRON,Info,15767,pam_unix(cron:session): session closed for user root,Jan 10 05:17:01 datanode1 CRON[15767]: pam_unix(cron:session): session closed for user root,datanode1
+1641791821000,CRON,Info,15767,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 05:17:01 datanode1 CRON[15767]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641791821000,CRON,Info,28245,pam_unix(cron:session): session closed for user root,Jan 10 05:17:01 namenode2 CRON[28245]: pam_unix(cron:session): session closed for user root,namenode2
+1641791821000,CRON,Info,28245,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 05:17:01 namenode2 CRON[28245]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641791821000,CRON,Info,3951577,pam_unix(cron:session): session closed for user root,Jan 10 05:17:01 datanode3 CRON[3951577]: pam_unix(cron:session): session closed for user root,datanode3
+1641791821000,CRON,Info,3951577,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 05:17:01 datanode3 CRON[3951577]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641795421000,CRON,Info,26622,pam_unix(cron:session): session closed for user root,Jan 10 06:17:01 namenode2 CRON[26622]: pam_unix(cron:session): session closed for user root,namenode2
+1641795421000,CRON,Info,26622,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 06:17:01 namenode2 CRON[26622]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641795421000,CRON,Info,3549,pam_unix(cron:session): session closed for user root,Jan 10 06:17:01 datanode1 CRON[3549]: pam_unix(cron:session): session closed for user root,datanode1
+1641795421000,CRON,Info,3549,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 06:17:01 datanode1 CRON[3549]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641795421000,CRON,Info,4015383,pam_unix(cron:session): session closed for user root,Jan 10 06:17:01 datanode3 CRON[4015383]: pam_unix(cron:session): session closed for user root,datanode3
+1641795421000,CRON,Info,4015383,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 06:17:01 datanode3 CRON[4015383]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641795901000,CRON,Info,10683,pam_unix(cron:session): session closed for user root,Jan 10 06:25:01 datanode1 CRON[10683]: pam_unix(cron:session): session closed for user root,datanode1
+1641795901000,CRON,Info,10683,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 06:25:01 datanode1 CRON[10683]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641795901000,CRON,Info,2752,pam_unix(cron:session): session closed for user root,Jan 10 06:25:01 namenode2 CRON[2752]: pam_unix(cron:session): session closed for user root,namenode2
+1641795901000,CRON,Info,2752,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 06:25:01 namenode2 CRON[2752]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641795901000,CRON,Info,4023763,pam_unix(cron:session): session closed for user root,Jan 10 06:25:01 datanode3 CRON[4023763]: pam_unix(cron:session): session closed for user root,datanode3
+1641795901000,CRON,Info,4023763,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 06:25:01 datanode3 CRON[4023763]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641799021000,CRON,Info,23625,pam_unix(cron:session): session closed for user root,Jan 10 07:17:01 datanode1 CRON[23625]: pam_unix(cron:session): session closed for user root,datanode1
+1641799021000,CRON,Info,23625,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 07:17:01 datanode1 CRON[23625]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641799021000,CRON,Info,25053,pam_unix(cron:session): session closed for user root,Jan 10 07:17:01 namenode2 CRON[25053]: pam_unix(cron:session): session closed for user root,namenode2
+1641799021000,CRON,Info,25053,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 07:17:01 namenode2 CRON[25053]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641799021000,CRON,Info,4077712,pam_unix(cron:session): session closed for user root,Jan 10 07:17:01 datanode3 CRON[4077712]: pam_unix(cron:session): session closed for user root,datanode3
+1641799021000,CRON,Info,4077712,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 07:17:01 datanode3 CRON[4077712]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641799801000,CRON,Info,2477,pam_unix(cron:session): session closed for user root,Jan 10 07:30:01 datanode1 CRON[2477]: pam_unix(cron:session): session closed for user root,datanode1
+1641799801000,CRON,Info,2477,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 07:30:01 datanode1 CRON[2477]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641799801000,CRON,Info,4091166,pam_unix(cron:session): session closed for user root,Jan 10 07:30:01 datanode3 CRON[4091166]: pam_unix(cron:session): session closed for user root,datanode3
+1641799801000,CRON,Info,4091166,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 07:30:01 datanode3 CRON[4091166]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641799801000,CRON,Info,7247,pam_unix(cron:session): session closed for user root,Jan 10 07:30:01 namenode2 CRON[7247]: pam_unix(cron:session): session closed for user root,namenode2
+1641799801000,CRON,Info,7247,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 07:30:01 namenode2 CRON[7247]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641802621000,CRON,Info,11123,pam_unix(cron:session): session closed for user root,Jan 10 08:17:01 datanode1 CRON[11123]: pam_unix(cron:session): session closed for user root,datanode1
+1641802621000,CRON,Info,11123,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 08:17:01 datanode1 CRON[11123]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641802621000,CRON,Info,24136,pam_unix(cron:session): session closed for user root,Jan 10 08:17:01 namenode2 CRON[24136]: pam_unix(cron:session): session closed for user root,namenode2
+1641802621000,CRON,Info,24136,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 08:17:01 namenode2 CRON[24136]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641802621000,CRON,Info,4140121,pam_unix(cron:session): session closed for user root,Jan 10 08:17:01 datanode3 CRON[4140121]: pam_unix(cron:session): session closed for user root,datanode3
+1641802621000,CRON,Info,4140121,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 08:17:01 datanode3 CRON[4140121]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641803401000,CRON,Info,4153648,pam_unix(cron:session): session closed for user root,Jan 10 08:30:01 datanode3 CRON[4153648]: pam_unix(cron:session): session closed for user root,datanode3
+1641803401000,CRON,Info,4153648,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 08:30:01 datanode3 CRON[4153648]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641806221000,CRON,Info,22598,pam_unix(cron:session): session closed for user root,Jan 10 09:17:01 namenode2 CRON[22598]: pam_unix(cron:session): session closed for user root,namenode2
+1641806221000,CRON,Info,22598,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 09:17:01 namenode2 CRON[22598]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641806221000,CRON,Info,30870,pam_unix(cron:session): session closed for user root,Jan 10 09:17:01 datanode1 CRON[30870]: pam_unix(cron:session): session closed for user root,datanode1
+1641806221000,CRON,Info,30870,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 09:17:01 datanode1 CRON[30870]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641806221000,CRON,Info,9077,pam_unix(cron:session): session closed for user root,Jan 10 09:17:01 datanode3 CRON[9077]: pam_unix(cron:session): session closed for user root,datanode3
+1641806221000,CRON,Info,9077,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 09:17:01 datanode3 CRON[9077]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641807001000,CRON,Info,22604,pam_unix(cron:session): session closed for user root,Jan 10 09:30:01 datanode3 CRON[22604]: pam_unix(cron:session): session closed for user root,datanode3
+1641807001000,CRON,Info,22604,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 09:30:01 datanode3 CRON[22604]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641809821000,CRON,Info,18447,pam_unix(cron:session): session closed for user root,Jan 10 10:17:01 datanode1 CRON[18447]: pam_unix(cron:session): session closed for user root,datanode1
+1641809821000,CRON,Info,18447,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 10:17:01 datanode1 CRON[18447]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641809821000,CRON,Info,21131,pam_unix(cron:session): session closed for user root,Jan 10 10:17:01 namenode2 CRON[21131]: pam_unix(cron:session): session closed for user root,namenode2
+1641809821000,CRON,Info,21131,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 10:17:01 namenode2 CRON[21131]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641809821000,CRON,Info,71706,pam_unix(cron:session): session closed for user root,Jan 10 10:17:01 datanode3 CRON[71706]: pam_unix(cron:session): session closed for user root,datanode3
+1641809821000,CRON,Info,71706,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 10:17:01 datanode3 CRON[71706]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641809941000,CRON,Info,20164,pam_unix(cron:session): session closed for user root,Jan 10 10:19:01 datanode1 CRON[20164]: pam_unix(cron:session): session closed for user root,datanode1
+1641809941000,CRON,Info,20164,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 10:19:01 datanode1 CRON[20164]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641810601000,CRON,Info,85278,pam_unix(cron:session): session closed for user root,Jan 10 10:30:01 datanode3 CRON[85278]: pam_unix(cron:session): session closed for user root,datanode3
+1641810601000,CRON,Info,85278,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 10:30:01 datanode3 CRON[85278]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641812401000,CRON,Info,116395,pam_unix(cron:session): session closed for user root,Jan 10 11:00:01 datanode3 CRON[116395]: pam_unix(cron:session): session closed for user root,datanode3
+1641812401000,CRON,Info,116395,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 11:00:01 datanode3 CRON[116395]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641813421000,CRON,Info,134111,pam_unix(cron:session): session closed for user root,Jan 10 11:17:01 datanode3 CRON[134111]: pam_unix(cron:session): session closed for user root,datanode3
+1641813421000,CRON,Info,134111,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 11:17:01 datanode3 CRON[134111]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641813421000,CRON,Info,19715,pam_unix(cron:session): session closed for user root,Jan 10 11:17:01 namenode2 CRON[19715]: pam_unix(cron:session): session closed for user root,namenode2
+1641813421000,CRON,Info,19715,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 11:17:01 namenode2 CRON[19715]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641813421000,CRON,Info,6179,pam_unix(cron:session): session closed for user root,Jan 10 11:17:01 datanode1 CRON[6179]: pam_unix(cron:session): session closed for user root,datanode1
+1641813421000,CRON,Info,6179,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 11:17:01 datanode1 CRON[6179]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641814201000,CRON,Info,147579,pam_unix(cron:session): session closed for user root,Jan 10 11:30:01 datanode3 CRON[147579]: pam_unix(cron:session): session closed for user root,datanode3
+1641814201000,CRON,Info,147579,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 11:30:01 datanode3 CRON[147579]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641817021000,CRON,Info,17924,pam_unix(cron:session): session closed for user root,Jan 10 12:17:01 namenode2 CRON[17924]: pam_unix(cron:session): session closed for user root,namenode2
+1641817021000,CRON,Info,17924,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 12:17:01 namenode2 CRON[17924]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641817021000,CRON,Info,196445,pam_unix(cron:session): session closed for user root,Jan 10 12:17:01 datanode3 CRON[196445]: pam_unix(cron:session): session closed for user root,datanode3
+1641817021000,CRON,Info,196445,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 12:17:01 datanode3 CRON[196445]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641817021000,CRON,Info,25923,pam_unix(cron:session): session closed for user root,Jan 10 12:17:01 datanode1 CRON[25923]: pam_unix(cron:session): session closed for user root,datanode1
+1641817021000,CRON,Info,25923,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 12:17:01 datanode1 CRON[25923]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641817801000,CRON,Info,209992,pam_unix(cron:session): session closed for user root,Jan 10 12:30:01 datanode3 CRON[209992]: pam_unix(cron:session): session closed for user root,datanode3
+1641817801000,CRON,Info,209992,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 12:30:01 datanode3 CRON[209992]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641820621000,CRON,Info,13406,pam_unix(cron:session): session closed for user root,Jan 10 13:17:01 datanode1 CRON[13406]: pam_unix(cron:session): session closed for user root,datanode1
+1641820621000,CRON,Info,13406,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 13:17:01 datanode1 CRON[13406]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641820621000,CRON,Info,16385,pam_unix(cron:session): session closed for user root,Jan 10 13:17:01 namenode2 CRON[16385]: pam_unix(cron:session): session closed for user root,namenode2
+1641820621000,CRON,Info,16385,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 13:17:01 namenode2 CRON[16385]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641820621000,CRON,Info,258884,pam_unix(cron:session): session closed for user root,Jan 10 13:17:01 datanode3 CRON[258884]: pam_unix(cron:session): session closed for user root,datanode3
+1641820621000,CRON,Info,258884,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 13:17:01 datanode3 CRON[258884]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641821401000,CRON,Info,272428,pam_unix(cron:session): session closed for user root,Jan 10 13:30:01 datanode3 CRON[272428]: pam_unix(cron:session): session closed for user root,datanode3
+1641821401000,CRON,Info,272428,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 13:30:01 datanode3 CRON[272428]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641824221000,CRON,Info,14768,pam_unix(cron:session): session closed for user root,Jan 10 14:17:01 namenode2 CRON[14768]: pam_unix(cron:session): session closed for user root,namenode2
+1641824221000,CRON,Info,14768,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 14:17:01 namenode2 CRON[14768]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641824221000,CRON,Info,321211,pam_unix(cron:session): session closed for user root,Jan 10 14:17:01 datanode3 CRON[321211]: pam_unix(cron:session): session closed for user root,datanode3
+1641824221000,CRON,Info,321211,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 14:17:01 datanode3 CRON[321211]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641824221000,CRON,Info,711,pam_unix(cron:session): session closed for user root,Jan 10 14:17:01 datanode1 CRON[711]: pam_unix(cron:session): session closed for user root,datanode1
+1641824221000,CRON,Info,711,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 14:17:01 datanode1 CRON[711]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641825001000,CRON,Info,334760,pam_unix(cron:session): session closed for user root,Jan 10 14:30:01 datanode3 CRON[334760]: pam_unix(cron:session): session closed for user root,datanode3
+1641825001000,CRON,Info,334760,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 14:30:01 datanode3 CRON[334760]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641827821000,CRON,Info,13342,pam_unix(cron:session): session closed for user root,Jan 10 15:17:01 namenode2 CRON[13342]: pam_unix(cron:session): session closed for user root,namenode2
+1641827821000,CRON,Info,13342,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 15:17:01 namenode2 CRON[13342]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641827821000,CRON,Info,20672,pam_unix(cron:session): session closed for user root,Jan 10 15:17:01 datanode1 CRON[20672]: pam_unix(cron:session): session closed for user root,datanode1
+1641827821000,CRON,Info,20672,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 15:17:01 datanode1 CRON[20672]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641827821000,CRON,Info,383502,pam_unix(cron:session): session closed for user root,Jan 10 15:17:01 datanode3 CRON[383502]: pam_unix(cron:session): session closed for user root,datanode3
+1641827821000,CRON,Info,383502,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 15:17:01 datanode3 CRON[383502]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641828601000,CRON,Info,397065,pam_unix(cron:session): session closed for user root,Jan 10 15:30:01 datanode3 CRON[397065]: pam_unix(cron:session): session closed for user root,datanode3
+1641828601000,CRON,Info,397065,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 15:30:01 datanode3 CRON[397065]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641829303000,sshd,Info,9999,Accepted password for root from 192.168.0.247 port 4987 ssh2,Jan 10 15:41:43 datanode1 sshd[9999]: Accepted password for root from 192.168.0.247 port 4987 ssh2,datanode1
+1641829303000,sshd,Info,9999,pam_unix(sshd:session): session opened for user root by (uid=0),Jan 10 15:41:43 datanode1 sshd[9999]: pam_unix(sshd:session): session opened for user root by (uid=0),datanode1
+1641829303000,systemd-logind,Info,779,New session 7238 of user root.,Jan 10 15:41:43 datanode1 systemd-logind[779]: New session 7238 of user root.,datanode1
+1641829622000,chage,Info,14804,changed password expiry for vnstat,Jan 10 15:47:02 datanode1 chage[14804]: changed password expiry for vnstat,datanode1
+1641829622000,chfn,Info,14807,changed user 'vnstat' information,Jan 10 15:47:02 datanode1 chfn[14807]: changed user 'vnstat' information,datanode1
+1641829622000,groupadd,Info,14784,"group added to /etc/group: name=vnstat, GID=128","Jan 10 15:47:02 datanode1 groupadd[14784]: group added to /etc/group: name=vnstat, GID=128",datanode1
+1641829622000,groupadd,Info,14784,group added to /etc/gshadow: name=vnstat,Jan 10 15:47:02 datanode1 groupadd[14784]: group added to /etc/gshadow: name=vnstat,datanode1
+1641829622000,groupadd,Info,14784,"new group: name=vnstat, GID=128","Jan 10 15:47:02 datanode1 groupadd[14784]: new group: name=vnstat, GID=128",datanode1
+1641829622000,useradd,Info,14790,"new user: name=vnstat, UID=124, GID=128, home=/var/lib/vnstat, shell=/usr/sbin/nologin","Jan 10 15:47:02 datanode1 useradd[14790]: new user: name=vnstat, UID=124, GID=128, home=/var/lib/vnstat, shell=/usr/sbin/nologin",datanode1
+1641829622000,usermod,Info,14799,change user 'vnstat' password,Jan 10 15:47:02 datanode1 usermod[14799]: change user 'vnstat' password,datanode1
+1641829638000,pkexec,Info,,pam_unix(polkit-1:session): session opened for user root by (uid=1000),Jan 10 15:47:18 datanode1 pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000),datanode1
+1641829638000,pkexec,Info,15597,pc107: Executing command [USER=root] [TTY=unknown] [CWD=/home/pc107] [COMMAND=/usr/lib/update-notifier/package-system-locked],Jan 10 15:47:18 datanode1 pkexec[15597]: pc107: Executing command [USER=root] [TTY=unknown] [CWD=/home/pc107] [COMMAND=/usr/lib/update-notifier/package-system-locked],datanode1
+1641829818000,pkexec,Info,,pam_unix(polkit-1:session): session opened for user root by (uid=1000),Jan 10 15:50:18 datanode1 pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000),datanode1
+1641829818000,pkexec,Info,18473,pc107: Executing command [USER=root] [TTY=unknown] [CWD=/home/pc107] [COMMAND=/usr/lib/update-notifier/package-system-locked],Jan 10 15:50:18 datanode1 pkexec[18473]: pc107: Executing command [USER=root] [TTY=unknown] [CWD=/home/pc107] [COMMAND=/usr/lib/update-notifier/package-system-locked],datanode1
+1641829921000,CRON,Info,18076,pam_unix(cron:session): session closed for user root,Jan 10 15:52:01 namenode2 CRON[18076]: pam_unix(cron:session): session closed for user root,namenode2
+1641829921000,CRON,Info,18076,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 15:52:01 namenode2 CRON[18076]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641831421000,CRON,Info,12001,pam_unix(cron:session): session closed for user root,Jan 10 16:17:01 namenode2 CRON[12001]: pam_unix(cron:session): session closed for user root,namenode2
+1641831421000,CRON,Info,12001,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 16:17:01 namenode2 CRON[12001]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641831421000,CRON,Info,445911,pam_unix(cron:session): session closed for user root,Jan 10 16:17:01 datanode3 CRON[445911]: pam_unix(cron:session): session closed for user root,datanode3
+1641831421000,CRON,Info,445911,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 16:17:01 datanode3 CRON[445911]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641831421000,CRON,Info,9729,pam_unix(cron:session): session closed for user root,Jan 10 16:17:01 datanode1 CRON[9729]: pam_unix(cron:session): session closed for user root,datanode1
+1641831421000,CRON,Info,9729,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 16:17:01 datanode1 CRON[9729]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641832201000,CRON,Info,459454,pam_unix(cron:session): session closed for user root,Jan 10 16:30:01 datanode3 CRON[459454]: pam_unix(cron:session): session closed for user root,datanode3
+1641832201000,CRON,Info,459454,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 16:30:01 datanode3 CRON[459454]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641834973000,sshd,Info,10807,Accepted password for root from 192.168.0.107 port 55302 ssh2,Jan 10 17:16:13 namenode2 sshd[10807]: Accepted password for root from 192.168.0.107 port 55302 ssh2,namenode2
+1641834973000,sshd,Info,10807,pam_unix(sshd:session): session opened for user root by (uid=0),Jan 10 17:16:13 namenode2 sshd[10807]: pam_unix(sshd:session): session opened for user root by (uid=0),namenode2
+1641834973000,systemd-logind,Info,721,New session 9223 of user root.,Jan 10 17:16:13 namenode2 systemd-logind[721]: New session 9223 of user root.,namenode2
+1641835021000,CRON,Info,11871,pam_unix(cron:session): session closed for user root,Jan 10 17:17:01 namenode2 CRON[11871]: pam_unix(cron:session): session closed for user root,namenode2
+1641835021000,CRON,Info,11871,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 17:17:01 namenode2 CRON[11871]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641835021000,CRON,Info,29424,pam_unix(cron:session): session closed for user root,Jan 10 17:17:01 datanode1 CRON[29424]: pam_unix(cron:session): session closed for user root,datanode1
+1641835021000,CRON,Info,29424,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 17:17:01 datanode1 CRON[29424]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641835021000,CRON,Info,508180,pam_unix(cron:session): session closed for user root,Jan 10 17:17:01 datanode3 CRON[508180]: pam_unix(cron:session): session closed for user root,datanode3
+1641835021000,CRON,Info,508180,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 17:17:01 datanode3 CRON[508180]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641835801000,CRON,Info,521700,pam_unix(cron:session): session closed for user root,Jan 10 17:30:01 datanode3 CRON[521700]: pam_unix(cron:session): session closed for user root,datanode3
+1641835801000,CRON,Info,521700,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 17:30:01 datanode3 CRON[521700]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641838621000,CRON,Info,11783,pam_unix(cron:session): session closed for user root,Jan 10 18:17:01 namenode2 CRON[11783]: pam_unix(cron:session): session closed for user root,namenode2
+1641838621000,CRON,Info,11783,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 18:17:01 namenode2 CRON[11783]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641838621000,CRON,Info,17024,pam_unix(cron:session): session closed for user root,Jan 10 18:17:01 datanode1 CRON[17024]: pam_unix(cron:session): session closed for user root,datanode1
+1641838621000,CRON,Info,17024,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 18:17:01 datanode1 CRON[17024]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641838621000,CRON,Info,570507,pam_unix(cron:session): session closed for user root,Jan 10 18:17:01 datanode3 CRON[570507]: pam_unix(cron:session): session closed for user root,datanode3
+1641838621000,CRON,Info,570507,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 18:17:01 datanode3 CRON[570507]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641839401000,CRON,Info,584048,pam_unix(cron:session): session closed for user root,Jan 10 18:30:01 datanode3 CRON[584048]: pam_unix(cron:session): session closed for user root,datanode3
+1641839401000,CRON,Info,584048,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 18:30:01 datanode3 CRON[584048]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641842221000,CRON,Info,11646,pam_unix(cron:session): session closed for user root,Jan 10 19:17:01 namenode2 CRON[11646]: pam_unix(cron:session): session closed for user root,namenode2
+1641842221000,CRON,Info,11646,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 19:17:01 namenode2 CRON[11646]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641842221000,CRON,Info,4882,pam_unix(cron:session): session closed for user root,Jan 10 19:17:01 datanode1 CRON[4882]: pam_unix(cron:session): session closed for user root,datanode1
+1641842221000,CRON,Info,4882,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 19:17:01 datanode1 CRON[4882]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641842221000,CRON,Info,632868,pam_unix(cron:session): session closed for user root,Jan 10 19:17:01 datanode3 CRON[632868]: pam_unix(cron:session): session closed for user root,datanode3
+1641842221000,CRON,Info,632868,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 19:17:01 datanode3 CRON[632868]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641843001000,CRON,Info,646359,pam_unix(cron:session): session closed for user root,Jan 10 19:30:01 datanode3 CRON[646359]: pam_unix(cron:session): session closed for user root,datanode3
+1641843001000,CRON,Info,646359,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 19:30:01 datanode3 CRON[646359]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641845821000,CRON,Info,11542,pam_unix(cron:session): session closed for user root,Jan 10 20:17:01 namenode2 CRON[11542]: pam_unix(cron:session): session closed for user root,namenode2
+1641845821000,CRON,Info,11542,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 20:17:01 namenode2 CRON[11542]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641845821000,CRON,Info,24707,pam_unix(cron:session): session closed for user root,Jan 10 20:17:01 datanode1 CRON[24707]: pam_unix(cron:session): session closed for user root,datanode1
+1641845821000,CRON,Info,24707,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 20:17:01 datanode1 CRON[24707]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641845821000,CRON,Info,695391,pam_unix(cron:session): session closed for user root,Jan 10 20:17:01 datanode3 CRON[695391]: pam_unix(cron:session): session closed for user root,datanode3
+1641845821000,CRON,Info,695391,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 20:17:01 datanode3 CRON[695391]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641846601000,CRON,Info,708977,pam_unix(cron:session): session closed for user root,Jan 10 20:30:01 datanode3 CRON[708977]: pam_unix(cron:session): session closed for user root,datanode3
+1641846601000,CRON,Info,708977,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 20:30:01 datanode3 CRON[708977]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641849421000,CRON,Info,11458,pam_unix(cron:session): session closed for user root,Jan 10 21:17:01 namenode2 CRON[11458]: pam_unix(cron:session): session closed for user root,namenode2
+1641849421000,CRON,Info,11458,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 21:17:01 namenode2 CRON[11458]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641849421000,CRON,Info,12249,pam_unix(cron:session): session closed for user root,Jan 10 21:17:01 datanode1 CRON[12249]: pam_unix(cron:session): session closed for user root,datanode1
+1641849421000,CRON,Info,12249,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 21:17:01 datanode1 CRON[12249]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641849421000,CRON,Info,757635,pam_unix(cron:session): session closed for user root,Jan 10 21:17:01 datanode3 CRON[757635]: pam_unix(cron:session): session closed for user root,datanode3
+1641849421000,CRON,Info,757635,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 21:17:01 datanode3 CRON[757635]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641850201000,CRON,Info,771197,pam_unix(cron:session): session closed for user root,Jan 10 21:30:01 datanode3 CRON[771197]: pam_unix(cron:session): session closed for user root,datanode3
+1641850201000,CRON,Info,771197,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 21:30:01 datanode3 CRON[771197]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641853021000,CRON,Info,11406,pam_unix(cron:session): session closed for user root,Jan 10 22:17:01 namenode2 CRON[11406]: pam_unix(cron:session): session closed for user root,namenode2
+1641853021000,CRON,Info,11406,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 22:17:01 namenode2 CRON[11406]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641853021000,CRON,Info,32025,pam_unix(cron:session): session closed for user root,Jan 10 22:17:01 datanode1 CRON[32025]: pam_unix(cron:session): session closed for user root,datanode1
+1641853021000,CRON,Info,32025,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 22:17:01 datanode1 CRON[32025]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641853021000,CRON,Info,820132,pam_unix(cron:session): session closed for user root,Jan 10 22:17:01 datanode3 CRON[820132]: pam_unix(cron:session): session closed for user root,datanode3
+1641853021000,CRON,Info,820132,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 22:17:01 datanode3 CRON[820132]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641853801000,CRON,Info,833633,pam_unix(cron:session): session closed for user root,Jan 10 22:30:01 datanode3 CRON[833633]: pam_unix(cron:session): session closed for user root,datanode3
+1641853801000,CRON,Info,833633,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 22:30:01 datanode3 CRON[833633]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641856621000,CRON,Info,11090,pam_unix(cron:session): session closed for user root,Jan 10 23:17:01 namenode2 CRON[11090]: pam_unix(cron:session): session closed for user root,namenode2
+1641856621000,CRON,Info,11090,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 23:17:01 namenode2 CRON[11090]: pam_unix(cron:session): session opened for user root by (uid=0),namenode2
+1641856621000,CRON,Info,19531,pam_unix(cron:session): session closed for user root,Jan 10 23:17:01 datanode1 CRON[19531]: pam_unix(cron:session): session closed for user root,datanode1
+1641856621000,CRON,Info,19531,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 23:17:01 datanode1 CRON[19531]: pam_unix(cron:session): session opened for user root by (uid=0),datanode1
+1641856621000,CRON,Info,882526,pam_unix(cron:session): session closed for user root,Jan 10 23:17:01 datanode3 CRON[882526]: pam_unix(cron:session): session closed for user root,datanode3
+1641856621000,CRON,Info,882526,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 23:17:01 datanode3 CRON[882526]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
+1641857401000,CRON,Info,896010,pam_unix(cron:session): session closed for user root,Jan 10 23:30:01 datanode3 CRON[896010]: pam_unix(cron:session): session closed for user root,datanode3
+1641857401000,CRON,Info,896010,pam_unix(cron:session): session opened for user root by (uid=0),Jan 10 23:30:01 datanode3 CRON[896010]: pam_unix(cron:session): session opened for user root by (uid=0),datanode3
